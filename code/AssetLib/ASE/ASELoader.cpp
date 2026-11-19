@@ -49,7 +49,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 // internal headers
 #include "ASELoader.h"
-#include "Common/TargetAnimation.h"
 #include <assimp/SkeletonMeshBuilder.h>
 #include <assimp/StringComparison.h>
 

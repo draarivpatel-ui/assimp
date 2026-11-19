@@ -220,7 +220,6 @@ SET( POST_PROCESSES
   unit/utLimitBoneWeights.cpp
   unit/utPretransformVertices.cpp
   unit/utScenePreprocessor.cpp
-  unit/utTargetAnimation.cpp
   unit/utSortByPType.cpp
   unit/utSceneCombiner.cpp
   unit/utGenBoundingBoxesProcess.cpp

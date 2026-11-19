@@ -197,8 +197,6 @@ SET( Common_SRCS
   Common/StackAllocator.h
   Common/StackAllocator.inl
   Common/StandardShapes.cpp
-  Common/TargetAnimation.cpp
-  Common/TargetAnimation.h
   Common/RemoveComments.cpp
   Common/Subdivision.cpp
   Common/scene.cpp
